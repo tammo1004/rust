@@ -61,8 +61,3 @@ Terminal:
 $ git config --local user.name "userID"
 $ git config --local user.email "emailAddress"
 ```
-
-```
-$ git config --local user.name
-$ git config --local user.email
-```
