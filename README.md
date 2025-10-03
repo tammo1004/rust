@@ -55,7 +55,7 @@ $ cargo check
 F1 - Git: Clone - Clone from GitHub - URL 선택
 
 
-Terminal
+Terminal:
 
 ```
 $ git config --local user.name "userID"
