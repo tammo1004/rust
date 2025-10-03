@@ -1,5 +1,6 @@
 fn main() {
     const PI: f64 = 3.14;
+    println!("{PI}");
 
     let x: u32 = 3;
     println!("{x}");
@@ -15,6 +16,4 @@ fn main() {
 
     y = 9;
     println!("{y}");
-
-    println!("{PI}");
 }
