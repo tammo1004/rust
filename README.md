@@ -1,4 +1,5 @@
-# Rust(1.90.0): Programming Language(Linux, MacOS)
+# Rust(1.90.0) Programming Language
+OS: Linux, MacOS
 
 ```
 $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
